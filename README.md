@@ -1,4 +1,4 @@
-This should have been a group project of 2, but due to some inconvenience i'm doing it alone
+This should have been a group project of 2, but due to some inconvenience I did it alone
 
 	C-PRINTF (Print formatted function)
 1. Task 0: A function that produces output according to a format. Returns: the number of characters printed (excluding the null byte used to end output to strings).
